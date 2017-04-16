@@ -10,7 +10,7 @@ ENV RTORRENT_DEFAULT /opt/rtorrent
 
 ENV RTORRENT_VERSION 0.9.2-1
 ENV RUTORRENT_VERSION 3.6
-ENV H5AI_VERSION 0.27.0
+ENV H5AI_VERSION 0.29.0
 ENV CAKEBOX_VERSION v1.8.3
 
 # install tools ===============================================================
